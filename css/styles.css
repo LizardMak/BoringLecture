@@ -1,0 +1,19 @@
+h2.intro {
+text-align:center;
+color:red;
+font-style:italic;
+font-size:large
+}
+p.intro {
+text-align:center;
+color:brown;
+}
+img.intro {
+image: resolution 144px;
+filter:blur(5px);
+}
+#intro {
+  color:burlywood;
+  font-stretch:extra-condensed;
+  font-style:italic;
+}
